@@ -1,2 +1,2 @@
-# Cpp
-Explore a collection of meticulously crafted C++ programs showcasing fundamental concepts
+#Rust Programming
+Explore a collection of meticulously crafted Rust programs showcasing fundamental concepts
